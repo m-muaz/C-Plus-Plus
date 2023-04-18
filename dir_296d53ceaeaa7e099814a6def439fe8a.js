@@ -1,5 +1,6 @@
 var dir_296d53ceaeaa7e099814a6def439fe8a =
 [
+    [ "aliquot_sum.cpp", "de/d99/aliquot__sum_8cpp.html", "de/d99/aliquot__sum_8cpp" ],
     [ "approximate_pi.cpp", "d0/d51/approximate__pi_8cpp.html", "d0/d51/approximate__pi_8cpp" ],
     [ "area.cpp", "dc/d82/area_8cpp.html", "dc/d82/area_8cpp" ],
     [ "armstrong_number.cpp", "d4/d5d/math_2armstrong__number_8cpp.html", "d4/d5d/math_2armstrong__number_8cpp" ],
@@ -10,6 +11,7 @@ var dir_296d53ceaeaa7e099814a6def439fe8a =
     [ "check_prime.cpp", "db/d93/check__prime_8cpp.html", "db/d93/check__prime_8cpp" ],
     [ "complex_numbers.cpp", "d5/d67/complex__numbers_8cpp.html", "d5/d67/complex__numbers_8cpp" ],
     [ "double_factorial.cpp", "d7/d89/double__factorial_8cpp.html", "d7/d89/double__factorial_8cpp" ],
+    [ "eratosthenes.cpp", "d7/da6/eratosthenes_8cpp.html", "d7/da6/eratosthenes_8cpp" ],
     [ "eulers_totient_function.cpp", "da/d23/eulers__totient__function_8cpp.html", "da/d23/eulers__totient__function_8cpp" ],
     [ "extended_euclid_algorithm.cpp", "d9/d5d/extended__euclid__algorithm_8cpp.html", "d9/d5d/extended__euclid__algorithm_8cpp" ],
     [ "factorial.cpp", "d9/d00/factorial_8cpp.html", "d9/d00/factorial_8cpp" ],
@@ -27,9 +29,7 @@ var dir_296d53ceaeaa7e099814a6def439fe8a =
     [ "integral_approximation2.cpp", "db/d40/integral__approximation2_8cpp.html", "db/d40/integral__approximation2_8cpp" ],
     [ "inv_sqrt.cpp", "d6/db8/inv__sqrt_8cpp.html", "d6/db8/inv__sqrt_8cpp" ],
     [ "large_factorial.cpp", "d6/d9d/large__factorial_8cpp.html", "d6/d9d/large__factorial_8cpp" ],
-    [ "large_number.h", "d4/d86/large__number_8h.html", [
-      [ "large_number", "db/d82/classlarge__number.html", "db/d82/classlarge__number" ]
-    ] ],
+    [ "large_number.h", "d4/d86/large__number_8h.html", "d4/d86/large__number_8h" ],
     [ "largest_power.cpp", "d5/d7a/largest__power_8cpp.html", "d5/d7a/largest__power_8cpp" ],
     [ "lcm_sum.cpp", "d5/d83/lcm__sum_8cpp.html", "d5/d83/lcm__sum_8cpp" ],
     [ "least_common_multiple.cpp", "d4/d21/least__common__multiple_8cpp.html", "d4/d21/least__common__multiple_8cpp" ],
@@ -38,6 +38,7 @@ var dir_296d53ceaeaa7e099814a6def439fe8a =
     [ "modular_division.cpp", "df/d72/modular__division_8cpp.html", "df/d72/modular__division_8cpp" ],
     [ "modular_exponentiation.cpp", "d0/d6d/modular__exponentiation_8cpp.html", "d0/d6d/modular__exponentiation_8cpp" ],
     [ "modular_inverse_fermat_little_theorem.cpp", "d8/d53/modular__inverse__fermat__little__theorem_8cpp.html", "d8/d53/modular__inverse__fermat__little__theorem_8cpp" ],
+    [ "modular_inverse_simple.cpp", "d6/d2d/modular__inverse__simple_8cpp.html", "d6/d2d/modular__inverse__simple_8cpp" ],
     [ "n_bonacci.cpp", "db/d27/n__bonacci_8cpp.html", "db/d27/n__bonacci_8cpp" ],
     [ "n_choose_r.cpp", "d1/dbb/n__choose__r_8cpp.html", "d1/dbb/n__choose__r_8cpp" ],
     [ "ncr_modulo_p.cpp", "de/dab/ncr__modulo__p_8cpp.html", "de/dab/ncr__modulo__p_8cpp" ],
